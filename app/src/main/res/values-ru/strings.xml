@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Rosberry Task</string>
+
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="error_invalid_password">Парль слишком кароткий</string>
+    <string name="error_incorrect_password">Неправильный пароль</string>
+    <string name="error_field_required">Это поле обязательно к заполнению</string>
+    <string name="close">Закрыть</string>
+    <string name="search">Поиск</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_internet">Нет интернет соединения</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="premissions_denied">Разрешение не получено</string>
+    <string name="wind_speed">Скорость ветра: </string>
+    <string name="wind_deg">Температура ветра: </string>
+    <string name="pressure">Давление: </string>
+    <string name="humidity">Влажность: </string>
+    <string name="title_activity_login">Вход</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="passwords_not_match">Пароли должны совпадать</string>
+    <string name="login_exist">Этот логин занят</string>
+    <string name="wrong_password">Некоректный логин или пароль</string>
+    <string name="exit">Выйти</string>
+    <string name="list">Список</string>
+    <string name="map">Карта</string>
+    <string name="error_invalid_email">Некоректный логин</string>
+</resources>

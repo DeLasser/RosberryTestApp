@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Rosberry Task</string>
+    <!--- Главное что оно есть, но я думаю лучше это не читать =) -->
+    <string name="password">mot de passe</string>
+    <string name="login">Login</string>
+    <string name="repeat_password">Répéter mot de passe</string>
+    <string name="error_invalid_password">Parley trop ou transaction</string>
+    <string name="error_incorrect_password">Mot de passe incorrect</string>
+    <string name="error_field_required">Ce champ est obligatoire</string>
+    <string name="close">fermer</string>
+    <string name="search">recherche</string>
+    <string name="cancel">annulation</string>
+    <string name="no_internet">Pas de connexion Internet</string>
+    <string name="title_activity_maps">carte</string>
+    <string name="premissions_denied">Un permis est pas obtenue</string>
+    <string name="wind_speed">la vitesse du vent: </string>
+    <string name="wind_deg">la température du vent: </string>
+    <string name="pressure">pression: </string>
+    <string name="humidity">humidité: </string>
+    <string name="title_activity_login">entrée</string>
+    <string name="sign_up">Inscription</string>
+    <string name="sign_in">entrée</string>
+    <string name="passwords_not_match">Les mots de passe doivent correspondre</string>
+    <string name="login_exist">Cette connexion ne sont pas disponibles</string>
+    <string name="wrong_password">Nom d\'utilisateur ou mot de passe incorrect</string>
+    <string name="exit">sortie</string>
+    <string name="list">liste</string>
+    <string name="map">carte</string>
+    <string name="error_invalid_email">Invalid login</string>
+</resources>

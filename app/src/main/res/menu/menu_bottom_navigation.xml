@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_first_tab"
+        android:title="@string/search"
+        android:icon="@drawable/ic_cloud_24dp"/>
+    <item android:id="@+id/action_second_tab"
+        android:title="@string/list"
+        android:icon="@drawable/ic_cloud_download_24dp"/>
+    <item android:id="@+id/action_third_tab"
+        android:title="@string/map"
+        android:icon="@drawable/ic_map_24dp"/>
+</menu>

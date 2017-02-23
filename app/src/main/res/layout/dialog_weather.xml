@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="68dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginRight="8dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:textSize="24dp"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/dialog_temp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_margin="4dp"
+        android:layout_height="64dp"
+        android:layout_gravity="left|top"
+        android:id="@+id/dialog_icon"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="68dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginRight="8dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/dialog_hum"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/dialog_press"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/dialog_wind_speed"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/dialog_wind_deg"/>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
